@@ -3,7 +3,7 @@
 
 ## Git：
 
-1. A version <mark>control<mark> system.
+1. A version <mark>control</mark> system.
 
 2. It tracks changes to files.
 
