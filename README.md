@@ -48,7 +48,7 @@ branch while you were working on your branch, you could pull in those updates.
 
 （collapsed折叠）
 
-![](https://github.com/sheep9u/How-to-use-GitHub/blob/main/img-folder/branch.png?raw=true)
+![](https://github.com/sheep9u/How-to-use-GitHub/blob/main/img-folder/collapsed.png?raw=true)
 
 ## Adding aquote
 
