@@ -1,4 +1,3 @@
-# How-to-use-GitHub
 # What are Git, GitHub and GitHub Desktop?
 
 ## Git：
@@ -17,6 +16,8 @@ A program that runs Git on your compuer and allows you to do most of the Git com
 
 # Tutorial
 
+![](https://github.com/sheep9u/How-to-use-GitHub/blob/main/img-folder/branch.png?raw=true)
+
 ## Creating a repository
 
 Branching lets you have different versions of a repository at one time.
@@ -34,4 +35,3 @@ branch while you were working on your branch, you could pull in those updates.
 > 当您在主分支之外创建分支时，您正在制作主分支在该时间点的副本或快照。 如果您在分支上工作时其他人对主分支进行了更改，您可以引入这些更新。
 
 ## Creating a branch
-
