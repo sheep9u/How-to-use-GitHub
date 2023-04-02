@@ -1,5 +1,7 @@
 # What are Git, GitHub and GitHub Desktop?
 
+![](https://github.com/sheep9u/How-to-use-GitHub/blob/main/img-folder/git.png?raw=true)
+
 ## Git：
 
 1. A version <mark>control</mark> system.
